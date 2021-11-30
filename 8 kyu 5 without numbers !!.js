@@ -1,0 +1,1 @@
+let unusualFive = () => ['','','','',''].length;

@@ -1,0 +1,1 @@
+let halvingSum = n => (n > 0) ? n + halvingSum(Math.floor(n / 2)) : n;
